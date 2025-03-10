@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\string18.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:string18.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool8.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool8.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool7.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool7.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bool1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "string18.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\string18.py",
+              "RelativeDocumentMoniker": "string18.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\string18.py",
+              "RelativeToolTip": "string18.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:20:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bool8.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool8.py",
+              "RelativeDocumentMoniker": "bool8.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool8.py",
+              "RelativeToolTip": "bool8.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:20:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bool7.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool7.py",
+              "RelativeDocumentMoniker": "bool7.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool7.py",
+              "RelativeToolTip": "bool7.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:19:22.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bool6.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool6.py",
+              "RelativeDocumentMoniker": "bool6.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool6.py",
+              "RelativeToolTip": "bool6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:18:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bool5.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool5.py",
+              "RelativeDocumentMoniker": "bool5.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool5.py",
+              "RelativeToolTip": "bool5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:16:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bool4.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool4.py",
+              "RelativeDocumentMoniker": "bool4.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool4.py",
+              "RelativeToolTip": "bool4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:12:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bool3.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool3.py",
+              "RelativeDocumentMoniker": "bool3.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool3.py",
+              "RelativeToolTip": "bool3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:08:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bool2.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool2.py",
+              "RelativeDocumentMoniker": "bool2.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool2.py",
+              "RelativeToolTip": "bool2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:07:13.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bool1.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool1.py",
+              "RelativeDocumentMoniker": "bool1.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-2\\homework\\bool1.py",
+              "RelativeToolTip": "bool1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-25T10:07:02.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

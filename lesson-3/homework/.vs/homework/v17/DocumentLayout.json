@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list40.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list40.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list39.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list39.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list38.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list38.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list37.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list37.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list36.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list36.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list35.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list35.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list34.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:list34.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list40.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list40.py",
+              "RelativeDocumentMoniker": "list40.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list40.py",
+              "RelativeToolTip": "list40.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:18:57.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list39.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list39.py",
+              "RelativeDocumentMoniker": "list39.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list39.py",
+              "RelativeToolTip": "list39.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:17:26.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list38.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list38.py",
+              "RelativeDocumentMoniker": "list38.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list38.py",
+              "RelativeToolTip": "list38.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:13:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list37.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list37.py",
+              "RelativeDocumentMoniker": "list37.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list37.py",
+              "RelativeToolTip": "list37.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:13:03.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "list36.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list36.py",
+              "RelativeDocumentMoniker": "list36.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list36.py",
+              "RelativeToolTip": "list36.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:09:28.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "list35.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list35.py",
+              "RelativeDocumentMoniker": "list35.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list35.py",
+              "RelativeToolTip": "list35.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:03:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "list34.py",
+              "DocumentMoniker": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list34.py",
+              "RelativeDocumentMoniker": "list34.py",
+              "ToolTip": "D:\\Desktop\\Python HW\\PythonHW\\lesson-3\\homework\\list34.py",
+              "RelativeToolTip": "list34.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T12:01:17.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
