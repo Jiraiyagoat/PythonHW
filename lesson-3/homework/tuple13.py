@@ -1,0 +1,6 @@
+tuple1 = tuple(input("Enter your list: ").split())
+list1 = list(tuple1)
+min_el = min(list1)
+list1.remove(min_el)
+min_el = min(list1)
+print(min_el)

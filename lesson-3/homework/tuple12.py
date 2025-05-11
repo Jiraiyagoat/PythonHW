@@ -1,0 +1,6 @@
+tuple1 = tuple(input("Enter your list: ").split())
+list1 = list(tuple1)
+max_el = max(list1)
+list1.remove(max_el)
+max_el = max(list1)
+print(max_el)

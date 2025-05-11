@@ -1,0 +1,5 @@
+tuple1 = tuple(input("Enter your list: ").split())
+list1 = list(tuple1)
+list1.sort(reverse = True)
+tuple1 = tuple(list1)
+print(tuple1)
