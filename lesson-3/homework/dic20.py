@@ -5,5 +5,5 @@ dictionary = {
     'job': 'SAT Tutor',
     'hobby' : 'Video Games'
 }
-key = input("What are you looking for? ")
-print(dictionary.get(key, "Not found"))
+sorted_dict = dict(sorted(dictionary.items()))
+print(sorted_dict)

@@ -6,4 +6,7 @@ dictionary = {
     'hobby' : 'Video Games'
 }
 key = input("What are you looking for? ")
-print(dictionary.get(key, "Not found"))
+if key in dictionary:
+    print("The key is present in the dictionary.")
+else:
+    print("The key is not present in the dictionary.")

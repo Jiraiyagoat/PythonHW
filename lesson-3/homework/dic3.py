@@ -5,5 +5,5 @@ dictionary = {
     'job': 'SAT Tutor',
     'hobby' : 'Video Games'
 }
-key = input("What are you looking for? ")
-print(dictionary.get(key, "Not found"))
+pairs = len(dictionary)
+print(f"There are {pairs} key-value pairs in the dictionary")

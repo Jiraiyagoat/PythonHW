@@ -5,5 +5,7 @@ dictionary = {
     'job': 'SAT Tutor',
     'hobby' : 'Video Games'
 }
-key = input("What are you looking for? ")
-print(dictionary.get(key, "Not found"))
+if len(dictionary) == 0:
+    print("The dictionary is empty")
+else:
+    print("The dictionary is not empty")

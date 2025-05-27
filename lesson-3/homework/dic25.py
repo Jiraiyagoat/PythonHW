@@ -5,5 +5,5 @@ dictionary = {
     'job': 'SAT Tutor',
     'hobby' : 'Video Games'
 }
-key = input("What are you looking for? ")
-print(dictionary.get(key, "Not found"))
+first_pair = list(dictionary.items())[0]
+print(first_pair)
